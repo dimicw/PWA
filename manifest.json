@@ -1,0 +1,16 @@
+{
+    "name": "Przewodnik po Sopocie",
+    "short_name": "Sopot App",
+    "theme_color": "#21b4f3",
+    "background_color": "#21b4f3",
+    "display": "fullscreen",
+    "scope": "/",
+    "start_url": "/PWA/index.html",
+    "icons": [
+        {
+            "src" : "img/icon.png",
+            "sizes" : "512x512",
+            "type" : "image/png"
+        }
+    ]
+  }
